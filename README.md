@@ -31,7 +31,7 @@
 
 1. Клонируйте репозиторий:
    ````bash
-   git clone [URL вашего репозитория]
+   git clone https://github.com/Yuli-chka/test_task_python
    cd Test_task
 2. Создайте и активируйте виртуальное окружение:
    ````bash
